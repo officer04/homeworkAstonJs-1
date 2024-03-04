@@ -8,4 +8,4 @@ function printWithDelay(array) {
   });
 }
 
-// printWithDelay(array);
+printWithDelay(array);
